@@ -26,6 +26,10 @@ After completing the challenges and extra miles I did:
 - DreamFTP - Note that I exploited this one in Windows 10 and I could overwrite EIP using format strings but could not create a ROP chain
 
 
+Please note the exploits must be updated with a correct payload (I was using a custom reverse shell payload so I deleted it).
+
+-------------------------------
+
 Other useful repositories:
 
 - [https://github.com/bmdyy/osed_prep](https://github.com/bmdyy/osed_prep)
