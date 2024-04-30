@@ -21,6 +21,8 @@ After completing the challenges and extra miles I did:
 
 - Vulnserver TRUN
 
+- VUPlayer v2.49 - ROP using PUSHAD and VirtualProtect()
+
 - Xitami
 
 - DreamFTP - Note that I exploited this one in Windows 10 and I could overwrite EIP using format strings but could not create a ROP chain
